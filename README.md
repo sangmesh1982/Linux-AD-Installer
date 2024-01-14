@@ -3,7 +3,7 @@ The Linux Active Directory Installer Utility
 (Tested on Ubuntu 22.04 LTS Server!)
 
 This Utility will Configure the Linux Server to act as Active Directory Domain Controller
-This will Install Following Packages on the server
+This will Install Following Packages on the Server
 
 AD-Provision , Import-UGO, Remove-UGO
 
