@@ -27,6 +27,9 @@ AD-Provision , Import-UGO, Remove-UGO
   @To Do Administrative Tasks , join an Windows 10 Client to the domain and install RSAT (Remote Server Administrative Services) on it.
   So you will get the Windows Server Like Administrative Utilities like 'Active Directory Users & Computers','Group Policy Management' etc.
 
+  You may refer : https://youtu.be/ySehJeBKAFI
+  
+
   
           
 
