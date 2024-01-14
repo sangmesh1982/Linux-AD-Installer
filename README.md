@@ -19,7 +19,7 @@ AD-Provision , Import-UGO, Remove-UGO
   
   >Step 2:
           Run the utility by command './AD-Provision-Install' on '#' prompt (with root access).
-          If it not runs change the permission by command 'chmod +x AD-Provision-Install' then run above command.
+          If it not runs change the permission by command 'chmod +x AD-Provision-Install' then run command again.
   
   >Step 3:
           Above command will install 3 commands/utilities AD-Provision, Import-UGO, Remove-UGO.
