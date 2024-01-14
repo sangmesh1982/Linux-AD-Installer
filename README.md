@@ -16,9 +16,11 @@ AD-Provision , Import-UGO, Remove-UGO
 
   Step 1:
           Download the 'AD-Provision-Install' file directly on server or download and upload to server through stfp,wincp,filezill etc. like utility
+  
   Step 2:
           Run the utility by command './AD-Provision-Install' on '#' prompt (with root access).
           If it not runs change the permission by command 'chmod +x AD-Provision-Install' then run above command.
+  
   Step 3:
           Above command will install 3 commands/utilities AD-Provision, Import-UGO, Remove-UGO.
 
