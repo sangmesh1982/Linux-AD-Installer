@@ -1,6 +1,6 @@
 -: The Linux Active Directory Installer Utility :-
 
-( Tested on Ubuntu 22.04 LTS Server , 23.10 )
+( Tested on Ubuntu 22.04 LTS Server , 23.10 Server, 22.04 Desktop )
 
 This Utility will Configure the Linux Server to act as Active Directory Domain Controller
 This will Install Following Packages on the Server
