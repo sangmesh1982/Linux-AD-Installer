@@ -15,7 +15,7 @@ AD-Provision , Import-UGO, Remove-UGO
 * Remove-UGO : This Command will delete Users & Groups provided in CSV file.
 
   >Step 1:
-          Download the 'AD-Provision-Install' file directly on server or download and upload to server through stfp,wincp,filezill etc. like utility
+          Download the 'AD-Provision-Install' and upload to server through stfp,wincp,filezill etc. like utility
   
   >Step 2:
           Run the utility by command './AD-Provision-Install' on '#' prompt (with root access).
