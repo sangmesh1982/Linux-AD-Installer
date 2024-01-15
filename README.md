@@ -9,7 +9,7 @@ AD-Provision , Import-UGO, Remove-UGO
 
 * AD-Provision : This command will Install SAMBA, LDAP, WINBIND, Kerberos, DNSUtils, Net-Tools etc. and further configure the system for AD-DC Environment.
   You Just have to give Hostname, IP, and Domain name on first screen then on 3 Kerberos (pink) screens DomainName, HostName, HostName respectively.
-  All other Configuration will be taken care.
+  All other Configuration will be done automatically.
 
 * Import-UGO : This Command will create Users, Groups, OUs provided in CSV file.
 * Remove-UGO : This Command will delete Users & Groups provided in CSV file.
