@@ -1,6 +1,6 @@
 -: The Linux Active Directory Installer Utility :-
 
-( Tested on Ubuntu 22.04 LTS Server , 23.10 Server, 22.04 Desktop, Kali 2023.4 )
+( Tested on Ubuntu 22.04 LTS Server , 23.10 Server, 22.04 Desktop, Debian 12.4,  Kali 2023.4 )
 
 This Utility will Configure the Linux Server to act as Active Directory Domain Controller
 This will Install Following Packages on the Server
